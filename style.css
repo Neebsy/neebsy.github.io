@@ -422,7 +422,7 @@ display: block;
     letter-spacing: 2px;
 }
 .text-overlay p{
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin: 20px;
 }
 .p-box:hover .text-overlay{
